@@ -46,4 +46,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-![](file: //home/nabab2023/Downloads/myntra.png)
+![](file://home/nabab2023/Downloads/myntra.png)
